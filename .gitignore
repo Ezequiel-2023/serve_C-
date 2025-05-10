@@ -1,0 +1,32 @@
+# Archivos de configuración sensibles
+.env
+# Archivos generados por Visual Studio
+.vs/
+*.suo
+*.user
+*.sln.cache
+
+# Archivos compilados y binarios
+bin/
+obj/
+*.dll
+*.pdb
+
+# Caché de paquetes NuGet
+packages/
+.nuget/
+
+# Archivos de compilación
+*.exe
+*.log
+
+# Dependencias generadas por npm/yarn
+node_modules/
+*.lock
+
+# Archivos generados por el sistema
+Thumbs.db
+*.DS_Store
+
+# Directorios de publicación
+publish/
